@@ -1,5 +1,6 @@
 import streamlit as st
 import numpy as np
+import os
 from sentence_transformers import SentenceTransformer
 from sklearn.metrics.pairwise import cosine_similarity
 import requests
@@ -8,7 +9,7 @@ import requests
 st.title('User Recommendation System')
 
 # API key and model initialization
-API_KEY = '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'
+API_KEY = os.environ.get('OPENAI_API_KEY')
 MODEL_NAME = 'paraphrase-MiniLM-L6-v2'
 model = SentenceTransformer(MODEL_NAME)
 
