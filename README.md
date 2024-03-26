@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Recommender App is a versatile tool designed to create connections ofr many different use-cases. In this case we have a fictional database of memebers of a climate action community that look for valuable connections within the network. 
+The Recommender App is a versatile tool designed to create connections ofr many different use-cases. In this case we have a fictional database of members of a climate action community that look for valuable connections within the network. 
 
 Users can upload their own data, enabling the app to deliver recommendations to match individuals based on shared interests, expertise, and collaboration opportunities.
 
