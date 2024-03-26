@@ -23,6 +23,7 @@ Users can upload their own data, enabling the app to deliver recommendations to 
 - `LICENSE`: MIT License.
 
 ## Installation and Setup
+Use your OpenAI API Key and export it to 'OPENAI_API_KEY' when running the app/recommender locally or set it in Streanlit when deploying the app.
 
 'streamlit run app.py' Visit http://localhost:8501 in your browser to use the app.
 
