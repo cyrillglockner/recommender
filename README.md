@@ -20,6 +20,7 @@ Users can upload their own data, enabling the app to deliver recommendations to 
 - `fictional_users.csv`: Example dataset demonstrating the expected format for user data.
 - `recommender.py`: Commandline script for the app.
 - `requirements.txt`: Lists all dependencies needed to run the app.
+- `LICENSE`: MIT License.
 
 ## Installation and Setup
 
