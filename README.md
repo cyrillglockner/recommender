@@ -1,4 +1,4 @@
-# Network Connector App
+# Recommender App
 
 ## Overview
 
